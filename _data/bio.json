@@ -6,7 +6,7 @@
     "email": "mohammed.hamidi@univ-tlemcen.dz",
     "phone": "0558 93 79 98",
     "website": "https://hammiddi.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of UABT. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying Computer Science in the Department of Information and Computer Sciences at the University of UABT. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "13000",
@@ -39,18 +39,18 @@
   },
   "interests": [
     {
-      "name": "mobile dev",
+      "name": "Mobile Apps Development",
       "keywords": [
         "Flutter"
       ]
     },
     {
-      "name": "software dev",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "embedded softwares",
+      "name": "Embedded Softwares",
       "keywords": [
       ]
     }
