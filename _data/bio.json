@@ -80,6 +80,16 @@
   ],
   "education": [
     {
+      "institution": "Technical high school inb saad, Tlemcen",
+      "area": "Electrical engineerein ",
+      "studyType": "BAC",
+      "startDate": "2016",
+      "endDate": "2019",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Abou Bakr Belkaid, Tlemcen",
       "area": "Computer Science ",
       "studyType": "License",
