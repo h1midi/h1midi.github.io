@@ -94,27 +94,30 @@
     {
       "company": "Freelance",
       "position": "Android App Developer",
-      "website": "fiver.com",
+      "website": "fiverr.com",
       "startDate": "2019",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "Developing andoid apps",
+        "Enhancing andoid apps",
+        "Converting sites to apps",
+        "Fixing bugs"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "GDG Tlemcen",
+      "organization": "Couders Cartel",
       "website": "",
-      "position": "Groupe member",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "",
+      "position": "Founder",
+      "startDate": "2020",
+      "endDate": "Present",
+      "summary": "Students Club",
       "highlights": [
-        "",
-        ""
+        "Writind codes",
+        "Organizing events",
+        "Collaborate with other clubs"
       ]
     }
   ],
