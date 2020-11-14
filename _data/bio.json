@@ -99,8 +99,8 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developing andoid apps",
-        "Enhancing andoid apps",
+        "Developing android apps",
+        "Enhancing android apps",
         "Converting sites to apps",
         "Fixing bugs"
       ]
@@ -108,7 +108,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Couders Cartel",
+      "organization": "Coders Cartel",
       "website": "",
       "position": "Founder",
       "startDate": "2020",
@@ -123,9 +123,15 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "Learning Google Flutter for Mobile Developers",
+      "date": "April 2020",
+      "awarder": "Lynda",
+      "summary": ""
+    },
+    {
+      "title": "Managing and Leading Developers",
+      "date": "May 2020",
+      "awarder": "Lynda",
       "summary": ""
     }
   ],
