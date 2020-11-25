@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: project
 type: project
 image: images/micromouse.jpg
@@ -41,4 +41,4 @@ byte ADCRead(byte ch)
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
- -->
+
